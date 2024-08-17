@@ -1,0 +1,6 @@
+[submodule "custom-cloudcompare-plugins"]
+	path = custom-cloudcompare-plugins
+	url = https://github.com/caibucai22/custom-cloudcompare-plugins.git
+[submodule "cv-dataset-format-converter"]
+	path = cv-dataset-format-converter
+	url = https://github.com/caibucai22/cv-dataset-format-converter.git
