@@ -17,7 +17,7 @@ Matplotlib的基本概念主要包括以下几个方面：
 - Artist：所有在图中绘制的图形对象，包括简单的点、线条、文本、图像等。
 如下图所示：
 
-<img src="images/cheatsheets.png" alt="Matplotlib的基本概念" style="zoom:10%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/cheatsheets.png" alt="Matplotlib的基本概念" style="zoom:10%;" />
 
 
 ## 1.3 Matplotlib的绘图流程
@@ -59,7 +59,7 @@ plt.title('Sin and Cos Curve')       # 设置标题
 plt.show()                          # 显示图形
 ```
 
-<img src="images/sin_cos_curve.png" alt="image.png" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/sin_cos_curve.png" alt="image.png" style="zoom:80%;" />
 
 ## 1.4 Matplotlib的绘图样式简介
 
@@ -67,7 +67,7 @@ plt.show()                          # 显示图形
 
 
 
-<img src="images/colors.png" alt="Matplotlib颜色使用方法" style="zoom:15%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/colors.png" alt="Matplotlib颜色使用方法" style="zoom:15%;" />
 
 Matplotlib中通过函数的 `color` 参数控制，并且提供了多种颜色设置方式如下：
 
@@ -82,7 +82,7 @@ Matplotlib中通过函数的 `color` 参数控制，并且提供了多种颜色�
 
 
 
-<img src="images/colors_names.png" alt="Matplotlib颜色名称" style="zoom:10%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/colors_names.png" alt="Matplotlib颜色名称" style="zoom:10%;" />
 
 
 
@@ -158,11 +158,11 @@ plt.show()
 
 ```
 
-<img src="images/colors_demo.png" alt="image.png" style="zoom:85%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/colors_demo.png" alt="image.png" style="zoom:85%;" />
 
 ### 1.4.2 线型和线宽
 
-<img src="images/linestyle.png" alt="Matplotlib线型和线宽" style="zoom:10%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/linestyle.png" alt="Matplotlib线型和线宽" style="zoom:10%;" />
 
 线形是指线条的样式，线宽是指线条的粗细。可以使用 `linestyle` 参数来设置线条的样式，常见的线型有：
 - '-'：实线
@@ -231,14 +231,14 @@ plt.show()
 
 ```
 
-![不同线型展示](images/linestyle_demo.png)
+![不同线型展示](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/linestyle_demo.png)
 
 
 ### 1.4.3 标记
 
 在画散点图或者带有标记的折线图时，可以使用 `marker` 参数设置标记的样式。常见的标记如下图所示：
 
-<img src="images/markers.png" alt="Matplotlib标记" style="zoom:15%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/markers.png" alt="Matplotlib标记" style="zoom:15%;" />
 
 下面的程序演示了如何使用不同的标记进行绘图：
 ```python
@@ -329,46 +329,45 @@ plt.tight_layout()
 plt.show()
 ```
 
-<img src="images/markers_demo.png" alt="不同标记展示" style="zoom:95%;" />
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/markers_demo.png" alt="不同标记展示" style="zoom:95%;" />
 
 ## 1.5 案例展示
 
 各位有科研制图需求可以联系我，以下是以前做过的部分图：
 
-<img src="demo/1-1.txt.png" alt="时序数据去噪" style="zoom: 30%;">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/1-1.txt.png" alt="时序数据去噪" style="zoom: 30%;">
 
-<img src="demo/播期累计.png" alt="累计耗水量" style="zoom:75%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/%E6%92%AD%E6%9C%9F%E7%B4%AF%E8%AE%A1.png" alt="累计耗水量" style="zoom:75%">
 
-<img src="demo/丰县气温.png" alt="气温变化趋势图" style="zoom:8%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/%E4%B8%B0%E5%8E%BF%E6%B0%94%E6%B8%A9.png" alt="气温变化趋势图" style="zoom:8%">
 
-<img src="demo/沛县气压.png" alt="气压趋势变化图" style="zoom:8%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/%E6%B2%9B%E5%8E%BF%E6%B0%94%E5%8E%8B.png" alt="气压趋势变化图" style="zoom:8%">
 
-<img src="demo/各生育期单层土壤日均耗水播期.png" alt="柱状比例图" style="zoom:60%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/%E5%90%84%E7%94%9F%E8%82%B2%E6%9C%9F%E5%8D%95%E5%B1%82%E5%9C%9F%E5%A3%A4%E6%97%A5%E5%9D%87%E8%80%97%E6%B0%B4%E6%92%AD%E6%9C%9F.png" alt="柱状比例图" style="zoom:60%">
 
-<img src="demo/散点拟合_播期_地上部分.png" alt="生物量拟合图" style="zoom:50%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/%E6%95%A3%E7%82%B9%E6%8B%9F%E5%90%88_%E6%92%AD%E6%9C%9F_%E5%9C%B0%E4%B8%8A%E9%83%A8%E5%88%86.png" alt="生物量拟合图" style="zoom:50%">
 
-<img src="demo/BER.png" alt="噪声对比图1" style="zoom:15%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/BER.png" alt="噪声对比图1" style="zoom:15%">
 
-<img src="demo/SER.png" alt="噪声对比图2" style="zoom: 15%;">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/SER.png" alt="噪声对比图2" style="zoom: 15%;">
 
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/combined_%E6%92%AD%E6%9C%9F.png" alt="降水量对比变化图" style="zoom:45%">
 
-<img src="demo/combined_播期.png" alt="降水量对比变化图" style="zoom:45%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/error_bar1.png" alt="误差图1" style="zoom:25%">
 
-<img src="demo/error_bar1.png" alt="误差图1" style="zoom:25%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/error_bar2.png" alt="误差图2" style="zoom:25%">
 
-<img src="demo/error_bar2.png" alt="误差图2" style="zoom:25%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/error_bar3.png" alt="误差图3" style="zoom:30%">
 
-<img src="demo/error_bar3.png" alt="误差图3" style="zoom:30%">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/KalmanFilter.png" alt="折线图对比" style="zoom: 30%;">
 
-<img src="demo/KalmanFilter.png" alt="折线图对比" style="zoom: 30%;">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/1200.jpg" alt="聚类结果展示" style="zoom: 30%;">
 
-<img src="demo/1200.jpg" alt="聚类结果展示" style="zoom: 30%;">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/test_continuous.gif" alt="动态tSEN" style="zoom: 83%;">
 
-<img src="demo/test_continuous.gif" alt="动态tSEN" style="zoom: 83%;">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/%E5%8A%9F%E7%8E%87.png" alt="功率图" style="zoom: 80%;">
 
-<img src="demo/功率.png" alt="功率图" style="zoom: 80%;">
-
-<img src="demo/分界点.png" alt="分界点图" style="zoom: 83%;">
+<img src="https://raw.githubusercontent.com/henu77/typoryPic/main/2024/%E5%88%86%E7%95%8C%E7%82%B9.png" alt="分界点图" style="zoom: 83%;">
 
 
 
