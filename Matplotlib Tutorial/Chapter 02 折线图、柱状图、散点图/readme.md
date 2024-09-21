@@ -50,9 +50,9 @@ plt.show()  # 显示图形
 ```
 
 
-    
-![png](main_files/main_1_0.png)
-    
+​    
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_1_0.png)
+​    
 
 
 上述代码中，我们首先使用 `fig, (ax1, ax2) = plt.subplots(2, 1, layout='constrained')` 创建了一个画布。 
@@ -143,8 +143,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_3_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_3_0.png)
     
 
 
@@ -190,9 +189,9 @@ for ax, markevery in zip(axs.flat, cases):
 ```
 
 
-    
-![png](main_files/main_5_0.png)
-    
+​    
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_5_0.png)
+​    
 
 
 ### 2.1.2 带误差棒的折线图
@@ -234,9 +233,9 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_7_0.png)
-    
+​    
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_7_0.png)
+​    
 
 
 `errorbar()` 方法的第一个参数是 x 轴的数据，第二个参数是 y 轴的数据，第三个参数 `yerr` 是 y 轴的误差数据，此外还可以传入 `xerr` 参数，用于设置 x 轴的误差数据。
@@ -284,8 +283,7 @@ plt.legend(loc='lower right')  # 显示图例，位置在右下角
 
 
 
-    
-![png](main_files/main_9_1.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_9_1.png)
     
 
 
@@ -327,8 +325,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_11_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_11_0.png)
     
 
 
@@ -368,9 +365,9 @@ fig.autofmt_xdate()  # 自动调整 x 轴日期标签的格式
 ```
 
 
-    
-![png](main_files/main_13_0.png)
-    
+​    
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_13_0.png)
+​    
 
 
 下面这段代码的功能是模拟两组随机游走者的运动，并绘制它们的平均位置及标准差的变化曲线，最后用 `fill_between` 填充两组随机游走者位置随时间变化的均值曲线与其标准差之间的区域。
@@ -411,9 +408,9 @@ ax.grid()
 ```
 
 
-    
-![png](main_files/main_15_0.png)
-    
+​    
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_15_0.png)
+​    
 
 
 我们还可以通过控制 `where` 参数来设置填充区域的条件。例如，`where=(y1 > y2)` 表示只有当第一条曲线的 y 值大于第二条曲线的 y 值时，才填充区域。
@@ -469,9 +466,9 @@ ax.grid()
 ```
 
 
-    
-![png](main_files/main_17_0.png)
-    
+​    
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_17_0.png)
+​    
 
 
 
@@ -515,9 +512,9 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_18_0.png)
-    
+​    
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_18_0.png)
+​    
 
 
 ## 2.2 柱状图
@@ -557,8 +554,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_20_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_20_0.png)
     
 
 
@@ -635,8 +631,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_23_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_23_0.png)
     
 
 
@@ -722,8 +717,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_26_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_26_0.png)
     
 
 
@@ -813,8 +807,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_28_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_28_0.png)
     
 
 
@@ -911,8 +904,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_31_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_31_0.png)
     
 
 
@@ -1016,8 +1008,7 @@ plt.show()
 ```
 
 
-    
-![png](main_files/main_33_0.png)
+![png](https://raw.githubusercontent.com/henu77/typoryPic/main/2024/main_33_0.png)
     
 
 
