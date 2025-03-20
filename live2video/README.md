@@ -90,8 +90,8 @@ live2video(jpg_path)
 提取效果如下图所示：
 | 原始动态照片 | 提取效果 |
 | :----------: | :------: |
-| ![原始动态照片](image/test.jpg) | ![提取效果](image/test.mp4) |
-| ![原始动态照片](image/test1.jpg) | ![提取效果](image/test1.mp4) |
+| <img src="image/test.jpg" alt="原始动态照片" width="1080" />| ![提取效果](image/test.gif) |
+| <img src="image/test1.jpg" alt="原始动态照片" width="1080" />| ![提取效果](image/test1.gif) |
 
 ## 致谢
 提取mp4视频的核心代码来自于 [GoMoPho](https://github.com/cliveontoast/GoMoPho) 项目。
