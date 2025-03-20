@@ -2,7 +2,7 @@
 
 本项目是一个基于 `Python` 的 Android「动态照片」提取工具，可以将动态照片中的视频提取出来。
 
-在线使用 [地址](tab.caima.tech)。
+在线使用 [地址](http://tab.caima.tech)。
 
 ## 介绍
 在 Android 系统中，动态照片是一种特殊的图片格式，它实际上是一个包含了视频的 JPG 图片。
@@ -91,7 +91,7 @@ live2video(jpg_path)
 | 原始动态照片 | 提取效果 |
 | :----------: | :------: |
 | ![原始动态照片](image/test.jpg) | ![提取效果](image/test.mp4) |
-| ![原始动态照片](image/test2.jpg) | ![提取效果](image/test2.mp4) |
+| ![原始动态照片](image/test1.jpg) | ![提取效果](image/test1.mp4) |
 
 ## 致谢
 提取mp4视频的核心代码来自于 [GoMoPho](https://github.com/cliveontoast/GoMoPho) 项目。

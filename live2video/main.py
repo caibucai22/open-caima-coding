@@ -54,4 +54,4 @@ def live2video(jpg_path):
         print("No MP4 file found in the given JPG file")
 
 # 示例用法
-live2video(r'C:\Users\Malong\Desktop\open-caima-coding\live2video\image\123.jpg')
+live2video(r'C:\Users\Malong\Desktop\open-caima-coding\live2video\image\test1.jpg')
