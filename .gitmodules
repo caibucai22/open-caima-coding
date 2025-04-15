@@ -4,3 +4,6 @@
 [submodule "cv-dataset-format-converter"]
 	path = cv-dataset-format-converter
 	url = https://github.com/caibucai22/cv-dataset-format-converter.git
+[submodule "TableAnalysisTool"]
+	path = TableAnalysisTool
+	url = https://github.com/caibucai22/TableAnalysisTool
