@@ -7,3 +7,6 @@
 [submodule "TableAnalysisTool"]
 	path = TableAnalysisTool
 	url = https://github.com/caibucai22/TableAnalysisTool
+[submodule "elm-fire-hazard-identification"]
+	path = elm-fire-hazard-identification
+	url = https://github.com/henu77/Fire-hazard-identification
