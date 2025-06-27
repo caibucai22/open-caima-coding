@@ -10,6 +10,6 @@
 [submodule "elm-fire-hazard-identification"]
 	path = elm-fire-hazard-identification
 	url = https://github.com/henu77/Fire-hazard-identification
-[submodule "Street Scene Semantic Segmentation"]
+[submodule "Street-Scene-Semantic-Segmentation"]
 	path = Street-Scene-Semantic-Segmentation
 	url = https://github.com/henu77/Street-Scene-Semantic-Segmentation.git
